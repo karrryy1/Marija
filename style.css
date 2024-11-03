@@ -1,0 +1,64 @@
+body {
+  background-color: rgba(133, 101, 80, 0.568);
+}
+
+
+/* body {
+  background-image: url("back.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+} */
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 100px;
+}
+
+p1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 100px;
+}
+
+
+div1 {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: rgb(85, 48, 27, 0.568);
+
+}
+
+div2 {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: rgb(85, 48, 27, 0.568);
+}
+
+div3 {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: rgb(85, 48, 27, 0.568);
+
+}
+
+div4 {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: rgb(85, 48, 27, 0.568);
+}
+
+div5 {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: rgb(85, 48, 27, 0.568);
+
+}
+
+div6 {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: rgb(85, 48, 27, 0.568);
+}
